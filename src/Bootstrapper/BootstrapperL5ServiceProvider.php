@@ -6,7 +6,7 @@
 namespace Bootstrapper;
 
 use Bootstrapper\Bridges\Config\Laravel5Config;
-use Illuminate\Html\HtmlBuilder;
+use Collective\Html\HtmlBuilder;
 use Illuminate\Support\ServiceProvider;
 
 /**
